@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! My name is Alan.
+    -I'm working in websites and and I'm studying frontend
+    -18y
+    -Contact Me: alan4tomaz8@gmail.com
+<br> </br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marconi-junior-61b313236/)
 
 <!--
 **Alan-Tomaz/Alan-Tomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
