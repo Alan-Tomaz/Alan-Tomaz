@@ -1,4 +1,4 @@
-Hi! My name is Alan.
+<b>Hi! My name is Alan.</b>
 - I'm working in websites and and I'm studying frontend
 - 18y
 - Contact Me: alan4tomaz8@gmail.com
