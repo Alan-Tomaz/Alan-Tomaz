@@ -9,10 +9,10 @@
 
 <div>
  <a href="https://github.com/Alan-Tomaz#gh-dark-mode-only">
-  <img width="900em" src="https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1&theme=dracula#gh-dark-mode-only&no-bg=true&no-frame=true"/>
+  <img width="900em" src="https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1&no-bg=true&no-frame=true&theme=dracula#gh-dark-mode-only"/>
  </a>
  <a href="https://github.com/Alan-Tomaz#gh-light-mode-only">
-  <img width="900em" src="https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1&theme=flat#gh-light-mode-only&no-bg=true&no-frame=true"/>
+  <img width="900em" src="https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1&no-bg=true&no-frame=true&theme=flat#gh-light-mode-only"/>
  </a>
 </div>
 
