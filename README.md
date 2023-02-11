@@ -3,8 +3,9 @@
 - **18y**
 - **Contact Me: alan4tomaz8@gmail.com**
 
-<br><br>
+##
 
+<br>
 <div>
 <a href="https://github.com/Alan-Tomaz#gh-dark-mode-only">
  <img  width="400em" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000&include_all_commits=true">
@@ -19,10 +20,18 @@
  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=default#gh-light-mode-only">
  </a>
  </div>
- <br><br>
+ 
+## 🏆GitHub Profile Trophy
 
+<br>
+<div>
+ <a href="https://github.com/Alan-Tomaz">
+  <img width="900em" src="https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1&theme=dracula&no-bg=true&no-frame=true"/>
+ </a>
+</div>
 
-<br><br>
+<br>
+
 ## Contacts:
 <div>
 <a href = "mailto:alan4tomaz8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -35,7 +44,7 @@
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 </div>
 
-<br><br>
+<br>
 
 ## Learnings:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -46,7 +55,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<br><br>
+<br>
 
 ## I enjoy:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -78,8 +87,7 @@
 
 
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br>
+
 
 <br><br>
 ![Snake animation](https://github.com/Alan-Tomaz/Alan-Tomaz/blob/output/github-contribution-grid-snake.svg)
