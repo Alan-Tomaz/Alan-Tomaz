@@ -86,16 +86,16 @@
 
 <div>
  <a href="https://github.com/Alan-Tomaz/Alan-Tomaz#gh-dark-mode-only" >
- <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=github_dark#gh-dark-mode-only"/>
+ <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=github_dark#gh-dark-mode-only"/>
  </a>
  <a href="https://github.com/Alan-Tomaz/Alan-Tomaz#gh-light-mode-only">
- <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=default#gh-light-mode-only"/>
+ <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=default#gh-light-mode-only"/>
  </a>
  <a href="https://github.com/Alan-Tomaz/GitProjectTest#gh-dark-mode-only">
- <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=github_dark#gh-dark-mode-only"/>
+ <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=github_dark#gh-dark-mode-only"/>
  </a>
  <a href="https://github.com/Alan-Tomaz/GitProjectTest#gh-light-mode-only">
- <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=default#gh-light-mode-only"/>
+ <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=default#gh-light-mode-only"/>
  </a>
  </div>
 
