@@ -85,12 +85,16 @@
 ![Snake animation](https://github.com/Alan-Tomaz/Alan-Tomaz/blob/output/github-contribution-grid-snake.svg)
 
 <div class="extra-pin">
- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=github_dark#gh-dark-mode-only"/>
+  <a href="https://github.com/Alan-Tomaz/Alan-Tomaz#gh-dark-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=github_dark#gh-dark-mode-only"/>
+ </a>
+ <a href="https://github.com/Alan_Tomaz/GitProjectTest#gh-dark-mode-only">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=github_dark#gh-dark-mode-only"/>
  </a>
- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=default#gh-light-mode-only"/>
+ <a href="https://github.com/Alan-Tomaz/Alan-Tomaz#gh-light-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=default#gh-light-mode-only"/>
+ </a>
+ <a href="https://github.com/Alan_Tomaz/GitProjectTest#gh-light-mode-only">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=default#gh-light-mode-only"/>
  </a>
  </div>
