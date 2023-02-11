@@ -10,13 +10,13 @@
  <img  width="400em" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000&include_all_commits=true">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img  width="480em" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-light-mode-only&bg_color=00000000">
+<img  width="400em" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-light-mode-only&bg_color=00000000">
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=tokyonight#gh-dark-mode-only">
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
- <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=default#gh-light-mode-only">
+ <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=default#gh-light-mode-only">
  </a>
  </div>
  <br><br>
@@ -84,5 +84,15 @@
 <br><br>
 ![Snake animation](https://github.com/Alan-Tomaz/Alan-Tomaz/blob/output/github-contribution-grid-snake.svg)
 
+<div class="extra-pin">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest"/>
+ </a>
+ </div>
+
+
 <!--Images Database https://github.com/Ileriayo/markdown-badges-->
 <!--Profiles features https://github.com/Naereen/badges -->
+
