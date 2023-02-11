@@ -3,7 +3,15 @@
 - **18y**
 - **Contact Me: alan4tomaz8@gmail.com**
 <br><br>
-
+<div class="Github-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+ <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img  width="42%" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&count_private=true&show_icons=true&theme=default#gh-light-mode-only&bg_color=00000000">
+ </a>
+ </div>
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&count_private=true&show_icons=true&theme=default#gh-light-mode-only&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
