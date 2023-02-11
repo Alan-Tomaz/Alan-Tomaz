@@ -8,8 +8,11 @@
 ## 🏆GitHub Profile Trophy
 
 <div>
- <a href="https://github.com/Alan-Tomaz">
-  <img width="900em" src="https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1&theme=dracula&no-bg=true&no-frame=true"/>
+ <a href="https://github.com/Alan-Tomaz#gh-dark-mode-only">
+  <img width="900em" src="https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1&theme=dracula#gh-dark-mode-only&no-bg=true&no-frame=true"/>
+ </a>
+ <a href="https://github.com/Alan-Tomaz#gh-light-mode-only">
+  <img width="900em" src="https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1&theme=flat#gh-light-mode-only&no-bg=true&no-frame=true"/>
  </a>
 </div>
 
