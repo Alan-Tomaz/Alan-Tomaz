@@ -3,7 +3,7 @@
 - **18y**
 - **Contact Me: alan4tomaz8@gmail.com**
 <br><br>
-<div class="github-stats">
+<div class="github-stats" style="display:inline-block">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
  <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000&include_all_commits=true">
 </a>
@@ -13,7 +13,7 @@
  </div>
  <div class="github-languages">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
- <img width="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=tokyonight#gh-dark-mode-only">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=tokyonight#gh-dark-mode-only">
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
  <img width="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=default#gh-light-mode-only">
