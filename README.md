@@ -5,7 +5,7 @@
 
 <br><br>
 
-<div class="github-stats">
+<div>
 <a href="https://github.com/Alan-Tomaz#gh-dark-mode-only">
  <img  width="400em" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000&include_all_commits=true">
 </a>
@@ -84,21 +84,20 @@
 <br><br>
 ![Snake animation](https://github.com/Alan-Tomaz/Alan-Tomaz/blob/output/github-contribution-grid-snake.svg)
 
-<div class="extra-pin">
-  <a href="https://github.com/Alan-Tomaz/Alan-Tomaz#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=github_dark#gh-dark-mode-only"/>
- </a>
- <a href="https://github.com/Alan-Tomaz/GitProjectTest#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=github_dark#gh-dark-mode-only"/>
+<div>
+ <a href="https://github.com/Alan-Tomaz/Alan-Tomaz#gh-dark-mode-only" >
+ <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=github_dark#gh-dark-mode-only"/>
  </a>
  <a href="https://github.com/Alan-Tomaz/Alan-Tomaz#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=default#gh-light-mode-only"/>
+ <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Alan-Tomaz&theme=default#gh-light-mode-only"/>
+ </a>
+ <a href="https://github.com/Alan-Tomaz/GitProjectTest#gh-dark-mode-only">
+ <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=github_dark#gh-dark-mode-only"/>
  </a>
  <a href="https://github.com/Alan-Tomaz/GitProjectTest#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=default#gh-light-mode-only"/>
+ <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=GitProjectTest&theme=default#gh-light-mode-only"/>
  </a>
  </div>
-
 
 <!--Images Database https://github.com/Ileriayo/markdown-badges-->
 <!--Profiles features https://github.com/Naereen/badges -->
