@@ -1,9 +1,18 @@
 # Hi! My name is Alan.
-- I'm working in websites and and I'm studying frontend
-- 18y
-- Contact Me: alan4tomaz8@gmail.com
+- **I'm working in websites and and I'm studying frontend**
+- **18y**
+- **Contact Me: alan4tomaz8@gmail.com**
 <br><br>
-# Contacts:
+
+<div class="Github-stats">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-Tomaz)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+ <div class="Github-languages">
+ [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+
+<br><br>
+## Contacts:
 <div>
 <a href = "mailto:alan4tomaz8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alan-tomaz-55ab18232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -60,9 +69,7 @@
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Alan-Tomaz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 ![Snake animation](https://github.com/Alan-Tomaz/Alan-Tomaz/blob/output/github-contribution-grid-snake.svg)
 
