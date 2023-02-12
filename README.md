@@ -55,7 +55,7 @@
 <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/L5ZXCe3_d.jpg?maxwidth=520&shape=thumb&fidelity=high#gh-dark-mode-only">
 </a>
 <a href="https://github.com/Alan-Tomaz#gh-light-mode-only">
-<img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/AGH1Ndw_d.jpg?maxwidth=520&shape=thumb&fidelity=high#gh-light-mode-only">
+<img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/fau67jd.jpg#gh-light-mode-only">
 </a>
 
 ## 📕 Learnings:
