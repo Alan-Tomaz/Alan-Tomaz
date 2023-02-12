@@ -51,6 +51,7 @@
 
 <br>
 <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/MfvK3Cl_d.jpg?maxwidth=520&shape=thumb&fidelity=high">
+<br>
 
 ## 📕 Learnings:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
