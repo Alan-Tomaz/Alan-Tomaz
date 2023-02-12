@@ -51,7 +51,12 @@
 
 <br>
 <br>
-<img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/MfvK3Cl_d.jpg?maxwidth=520&shape=thumb&fidelity=high">
+<a href="https://github.com/Alan-Tomaz#gh-dark-mode-only">
+<img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/L5ZXCe3_d.jpg?maxwidth=520&shape=thumb&fidelity=high#gh-dark-mode-only">
+</a>
+<a href="https://github.com/Alan-Tomaz#gh-light-mode-only">
+<img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/AGH1Ndw_d.jpg?maxwidth=520&shape=thumb&fidelity=high#gh-light-mode-only">
+</a>
 
 ## 📕 Learnings:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
