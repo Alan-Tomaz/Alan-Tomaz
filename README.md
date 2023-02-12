@@ -3,6 +3,7 @@
 - **18y**
 - **Contact Me: alan4tomaz8@gmail.com**
 
+
 <br>
 
 ## 🏆GitHub Profile Trophy
@@ -49,6 +50,7 @@
 </div>
 
 <br>
+<img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/MfvK3Cl_d.jpg?maxwidth=520&shape=thumb&fidelity=high">
 
 ## 📕 Learnings:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
