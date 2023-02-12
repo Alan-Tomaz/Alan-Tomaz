@@ -50,6 +50,7 @@
 </div>
 
 <br>
+<br>
 <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/MfvK3Cl_d.jpg?maxwidth=520&shape=thumb&fidelity=high">
 
 ## 📕 Learnings:
