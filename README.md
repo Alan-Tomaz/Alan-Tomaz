@@ -22,16 +22,16 @@
 <br>
 <div>
 <a href="https://github.com/Alan-Tomaz#gh-dark-mode-only">
- <img  width="455rem" align="left" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000&include_all_commits=true">
+ <img  width="450rem" align="left" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000&include_all_commits=true">
 </a>
 <a href="https://github.com/Alan-Tomaz#gh-light-mode-only">
-<img  width="455rem" align="left" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-light-mode-only&bg_color=00000000">
+<img  width="450rem" align="left" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-light-mode-only&bg_color=00000000">
  </a>
  <a href="https://github.com/Alan-Tomaz#gh-dark-mode-only">
- <img width="345rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=tokyonight#gh-dark-mode-only">
+ <img width="340rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=tokyonight#gh-dark-mode-only">
  </a>
  <a href="https://github.com/Alan-Tomaz#gh-light-mode-only">
- <img width="345rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=default#gh-light-mode-only">
+ <img width="340rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=default#gh-light-mode-only">
  </a>
  </div>
 
