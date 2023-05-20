@@ -1,5 +1,5 @@
 # Hi! My name's Alan.
-- **I'm working in websites and and I'm studying frontend**
+- **I'm working in websites and and I'm studying frontend and backend**
 - **18y**
 - **Contact Me: alan4tomaz8@gmail.com**
 - **My Portfolio: https://alan-tomaz.github.io**
