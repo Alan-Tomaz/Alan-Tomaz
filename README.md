@@ -124,8 +124,8 @@
 ##
 <br>
 <div>
- <a href="https://github.com/Alan-Tomaz/My-Blog#gh-dark-mode-only" >
- <img width="42%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=My-Blog&theme=github_dark#gh-dark-mode-only"/>
+ <a href="https://github.com/Alan-Tomaz/Managit#gh-dark-mode-only" >
+ <img width="42%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=Managit&theme=github_dark#gh-dark-mode-only"/>
  </a>
  <a href="https://github.com/Alan-Tomaz/My-Blog#gh-light-mode-only">
  <img width="42%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Alan-Tomaz&repo=My-Blog&theme=default#gh-light-mode-only"/>
