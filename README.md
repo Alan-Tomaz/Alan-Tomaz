@@ -1,6 +1,6 @@
 # Hi! My name's Alan.
 - **I'm working in websites and and I'm studying frontend and backend**
-- **18y**
+- **19y**
 - **Contact Me: alan4tomaz8@gmail.com**
 - **My Portfolio: https://alan-tomaz.github.io**
 
@@ -29,10 +29,10 @@
 <img  width="453rem" align="left" src="https://github-readme-stats.vercel.app/api?username=Alan-Tomaz&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-light-mode-only&bg_color=00000000">
  </a>
  <a href="https://github.com/Alan-Tomaz#gh-dark-mode-only">
- <img width="345rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=tokyonight#gh-dark-mode-only">
+ <img width="345rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=6&layout=compact&theme=tokyonight#gh-dark-mode-only">
  </a>
  <a href="https://github.com/Alan-Tomaz#gh-light-mode-only">
- <img width="345rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=8&layout=compact&theme=default#gh-light-mode-only">
+ <img width="345rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Tomaz&langs_count=6&layout=compact&theme=default#gh-light-mode-only">
  </a>
  </div>
 
