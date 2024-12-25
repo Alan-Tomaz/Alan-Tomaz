@@ -1,7 +1,7 @@
 # Hi! My name's Alan.
 - **I'm working in websites and and I'm studying frontend and backend**
 - **19y**
-- **Contact Me: alan4tomaz8@gmail.com**
+- **Contact Me: alantomaz.dev@gmail.com**
 - **My Portfolio: https://alan-tomaz.github.io**
 
 
@@ -49,7 +49,7 @@
 
 ## ☎️ Contacts:
 <div>
-<a href = "mailto:alan4tomaz8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:alantomaz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alan-tomaz-55ab18232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
