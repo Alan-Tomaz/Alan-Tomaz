@@ -62,6 +62,7 @@
 <br>
 <br>
 
+<!--
 <a href="https://github.com/Alan-Tomaz#gh-dark-mode-only">
 <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/L5ZXCe3_d.jpg?maxwidth=520&shape=thumb&fidelity=high#gh-dark-mode-only">
 </a>
@@ -69,9 +70,10 @@
 <a href="https://github.com/Alan-Tomaz#gh-light-mode-only">
 <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/fau67jd.jpg#gh-light-mode-only">
 </a>
+-->
 
 
-## 📕 Learnings:
+## 📕 Languages ​​and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -87,6 +89,7 @@
 
 <br>
 
+<!--
 ## 👍 I Enjoy :
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
@@ -94,6 +97,8 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 <br><br>
+-->
+
 <!--
 <div>
 <a href="https://github.com/Alan-Tomaz/">
